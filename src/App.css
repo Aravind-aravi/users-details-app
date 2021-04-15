@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.user {
+  margin-top: "5vh" !important;
+  padding-top: "2vh";
+}
+.textfield {
+  margin-top: 30px;
+}
